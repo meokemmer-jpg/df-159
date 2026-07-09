@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLDS",
+  "reason": "Der Test nutzt echte Nachrichten mit gelesenen/ungelesenen und VIP/Nicht-VIP-Gegenfaellen sowie Stop-Flag-Wechsel und invalidem received_at, wodurch zentrale df-159-Funktionalitaet ueber unterschiedliche Outputs geprueft wird.",
+  "ts": "2026-07-08T15:07:55.307413+00:00"
+}
