@@ -1,0 +1,16 @@
+{
+  "daily_volume": 0,
+  "df": "DF-159",
+  "emails_total": 0,
+  "emails_unread": 0,
+  "iso_timestamp": "2026-07-19T03:57:19+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "oldest_unread_days": 0,
+  "response_rate_24h": 0,
+  "source": "mock",
+  "welle": "25"
+}
